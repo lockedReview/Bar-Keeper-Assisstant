@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(23, 89, 111, 0.886);
+
+  }
+  
+  h1 {
+    color: #818181;
+    text-align: center;
+  }
+  .main{
+    border: 1px solid;
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+  
+  }
+  #img{  
+
+    height: 100px;
+    width: 190px;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-bottom:100px;
+    text-align: center;
+    display:block;
+}
+  
+
+  .card{
+    position: absolute;
+    border: .5px solid;
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+    background-color:  #818181;
+    left: 50%;
+    transform: translate(0,-50%);
+  }
